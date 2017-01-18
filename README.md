@@ -1,0 +1,1 @@
+# jenkins_global_libraries
